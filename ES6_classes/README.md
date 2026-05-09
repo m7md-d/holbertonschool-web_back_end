@@ -67,6 +67,11 @@ Implement a `Car` class with a `cloneCar` method using Symbols.
 
 **File:** `10-car.js`
 
+### Task 11 - EVCar (Advanced)
+Implement an `EVCar` class extending `Car`.
+
+**File:** `100-evcar.js`
+
 ## Setup
 
 ### Install NodeJS
